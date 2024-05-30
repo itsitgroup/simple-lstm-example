@@ -37,6 +37,14 @@ This project implements a text classification model using Long Short-Term Memory
    python evaluate.py
    ```
 
+or
+
+1. Run the `run.py` script to execute everything in order:
+   ```bash
+   python run.py
+   ```
+
+
 ## Requirements
 
 The project dependencies are listed in `requirements.txt`.
